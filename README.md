@@ -1,6 +1,6 @@
 # Jamese Fekodo
 
-Founder & CTO at Odu Systems | Software Architect | Full-Stack Engineer
+CTO at Odu Systems | Software Architect | Full-Stack Engineer
 
 I am the Founder and Chief Technology Officer of Odu Systems, where I lead the design, development, and delivery of technology solutions that solve real operational and business challenges.
 

@@ -1,6 +1,6 @@
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1D4ED8,100:00D9FF&height=220&section=header&text=James%20Fekodo&fontSize=52&fontColor=F8FAFC&desc=CTO%20%40%20ODU%20Systems%20·%20Software%20Architect%20·%20Systems%20Engineer&descSize=18&descAlignY=72"
-  alt="James Fekodo — Software Architect and Systems Engineer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1D4ED8,100:00D9FF&height=220&section=header&text=James%20Efekodo&fontSize=52&fontColor=F8FAFC&desc=CTO%20%40%20ODU%20Systems%20·%20Software%20Architect%20·%20Systems%20Engineer&descSize=18&descAlignY=72"
+  alt="James Efekodo — Software Architect and Systems Engineer"
   width="100%"
 />
 
@@ -86,13 +86,13 @@ I care most about systems that are practical, maintainable, secure, and capable 
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
-  alt="GitHub profile statistics for James Fekodo"
+  alt="GitHub profile statistics for James Efekodo"
   height="170"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-  alt="Most used programming languages for James Fekodo"
+  alt="Most used programming languages for James Efekodo"
   height="170"
 />
 
@@ -102,7 +102,7 @@ I care most about systems that are practical, maintainable, secure, and capable 
 
 <img
   src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight&locale=en"
-  alt="GitHub contribution streak for James Fekodo"
+  alt="GitHub contribution streak for James Efekodo"
   width="72%"
 />
 
@@ -112,7 +112,7 @@ I care most about systems that are practical, maintainable, secure, and capable 
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub contribution activity graph for James Fekodo"
+  alt="GitHub contribution activity graph for James Efekodo"
   width="100%"
 />
 

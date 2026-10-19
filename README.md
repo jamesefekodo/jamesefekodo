@@ -8,10 +8,10 @@
 
 **Engineering intelligent software. Architecting scalable systems. Building technology that moves business.**
 
-[![Website](https://img.shields.io/badge/Website-Visit-00D9FF?style=for-the-badge&labelColor=0B1020)](YOUR_WEBSITE_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0B1020)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&labelColor=0B1020)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=0B1020)](mailto:YOUR_EMAIL)
+[![Website](https://img.shields.io/badge/Website-Visit-00D9FF?style=for-the-badge&labelColor=0B1020)](https://odusystems.com.ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0B1020)](www.linkedin.com/in/james-e-334b15120)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&labelColor=0B1020)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=0B1020)](mailto:efekodooghenekevwe@gmail.com)
 
 </div>
 
@@ -79,7 +79,7 @@ I care most about systems that are practical, maintainable, secure, and capable 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-
+/*
 ## 📊 Engineering Analytics
 
 <div align="center">
@@ -119,7 +119,7 @@ I care most about systems that are practical, maintainable, secure, and capable 
 </div>
 
 > These analytics reflect public GitHub activity and repository language distribution. They are a snapshot of engineering activity, not a complete measure of professional capability.
-
+*/
 ---
 
 ## 🏗️ Selected Systems & Projects
@@ -129,28 +129,28 @@ I care most about systems that are practical, maintainable, secure, and capable 
 Business applications that organize users, workflows, operational data, permissions, and organizational processes.
 
 **Focus:** Backend architecture · Multi-tenancy · Workflow automation · Security  
-**Project:** [CampusGov](YOUR_PROJECT_URL)
+**Project:** [CampusGov](#)
 
 ### 02 — APIs & Integration Systems
 
 Services that connect applications, external platforms, and business processes through structured and reliable data exchange.
 
 **Focus:** REST APIs · Authentication · Integrations · Reliability  
-**Project:** [Project Name](YOUR_PROJECT_URL)
+**Project:** [Project Name](#)
 
 ### 03 — AI & Analytics Applications
 
 Intelligent software that turns data, automation, and AI services into useful operational insight.
 
 **Focus:** LLM integration · Analytics · Automation · Data visualization  
-**Project:** [Project Name](YOUR_PROJECT_URL)
+**Project:** [Project Name](#)
 
 ### 04 — Infrastructure & Connected Technology
 
 Deployment environments, server configuration, automation, and systems that bridge software with infrastructure or hardware.
 
 **Focus:** Linux · Nginx · DevOps · System integration  
-**Project:** [Project Name](YOUR_PROJECT_URL)
+**Project:** [Project Name](#)
 
 ---
 
@@ -188,7 +188,7 @@ I welcome collaboration on meaningful engineering projects involving:
 
 <div align="center">
 
-[![Explore Repositories](https://img.shields.io/badge/Explore-My_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![Explore Repositories](https://img.shields.io/badge/Explore-My_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamesefekodo?tab=repositories)
 
 </div>
 
@@ -198,7 +198,7 @@ I welcome collaboration on meaningful engineering projects involving:
 
 <div align="center">
 
-[Website](YOUR_WEBSITE_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
+[Website](https://odusystems.com.ng/) · [LinkedIn](www.linkedin.com/in/james-e-334b15120) · [Portfolio](#) · [Email](mailto:efekodooghenekevwe@gmail.com)
 
 *Technology is the medium. Engineering is the discipline. Impact is the objective.*
 

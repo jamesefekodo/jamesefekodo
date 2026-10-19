@@ -77,7 +77,7 @@ I care most about systems that are practical, maintainable, secure, and capable 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+<--
 ---
 ## 📊 Engineering Analytics
 
@@ -118,6 +118,7 @@ I care most about systems that are practical, maintainable, secure, and capable 
 </div>
 
 > These analytics reflect public GitHub activity and repository language distribution. They are a snapshot of engineering activity, not a complete measure of professional capability.
+-->
 ---
 
 ## 🏗️ Selected Systems & Projects

@@ -77,49 +77,7 @@ I care most about systems that are practical, maintainable, secure, and capable 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-<--
----
-## 📊 Engineering Analytics
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=jamesefekodo&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
-  alt="GitHub profile statistics for James Efekodo"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesefekodo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-  alt="Most used programming languages for James Efekodo"
-  height="170"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight&locale=en"
-  alt="GitHub contribution streak for James Efekodo"
-  width="72%"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub contribution activity graph for James Efekodo"
-  width="100%"
-/>
-
-</div>
-
-> These analytics reflect public GitHub activity and repository language distribution. They are a snapshot of engineering activity, not a complete measure of professional capability.
----
--->
 
 ## 🏗️ Selected Systems & Projects
 

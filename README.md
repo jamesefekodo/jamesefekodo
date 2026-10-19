@@ -118,8 +118,8 @@ I care most about systems that are practical, maintainable, secure, and capable 
 </div>
 
 > These analytics reflect public GitHub activity and repository language distribution. They are a snapshot of engineering activity, not a complete measure of professional capability.
--->
 ---
+-->
 
 ## 🏗️ Selected Systems & Projects
 

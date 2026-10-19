@@ -93,14 +93,14 @@ Business applications that organize users, workflows, operational data, permissi
 Services that connect applications, external platforms, and business processes through structured and reliable data exchange.
 
 **Focus:** REST APIs · Authentication · Integrations · Reliability  
-**Project:** [Project Name](#)
+**Project:** [##](#)
 
 ### 03 — AI & Analytics Applications
 
 Intelligent software that turns data, automation, and AI services into useful operational insight.
 
 **Focus:** LLM integration · Analytics · Automation · Data visualization  
-**Project:** [Project Name](#)
+**Project:** [##](#)
 
 ### 04 — Infrastructure & Connected Technology
 

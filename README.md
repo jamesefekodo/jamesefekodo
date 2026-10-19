@@ -49,10 +49,10 @@ Frameworks & Application Development
 
 Laravel · Spring Boot · .NET · ASP.NET Core · Node.js · React · Bootstrap
 Databases & Enterprise Data Platforms
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb" alt="MySQL, PostgreSQL, SQLite, Redis and MongoDB" />
-  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle Database logo" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server logo" width="48" height="48" />
 </p>
 
 Oracle Database · MySQL · PostgreSQL · Microsoft SQL Server · SQLite · Redis · MongoDB

@@ -79,19 +79,18 @@ I care most about systems that are practical, maintainable, secure, and capable 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-/*
 ## 📊 Engineering Analytics
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api?username=jamesefekodo&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
   alt="GitHub profile statistics for James Efekodo"
   height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesefekodo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
   alt="Most used programming languages for James Efekodo"
   height="170"
 />
@@ -119,7 +118,6 @@ I care most about systems that are practical, maintainable, secure, and capable 
 </div>
 
 > These analytics reflect public GitHub activity and repository language distribution. They are a snapshot of engineering activity, not a complete measure of professional capability.
-*/
 ---
 
 ## 🏗️ Selected Systems & Projects
